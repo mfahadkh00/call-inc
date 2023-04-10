@@ -6,5 +6,5 @@ export const CLUSTER = "eu"; //should be moved to env
 export const APP_AUTH_ENDPOINT =
   "https://frontend-test-api.aircall.io/pusher/auth";
 export const PROFILE_ENDPOINT =
-  "https://crudcrud.com/api/ba90478cc6c84d5191b343df3d900755";
-export const PROFILE_ID = "642d4c5d308c9903e84ec552";
+  "https://crudcrud.com/api/4cb4f848804f437bb94785449bcefd59";
+export const PROFILE_ID = "642f1b9c308c9903e84ecb99";

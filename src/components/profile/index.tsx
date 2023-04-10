@@ -85,7 +85,7 @@ const Profile: React.FC<ProfilelProps> = ({
           />
           <ProfileField
             label="GitHub URL"
-            name="githubUrl"
+            name="github"
             value={formData.github}
             onChange={handleInputChange}
             variant="outlined"
